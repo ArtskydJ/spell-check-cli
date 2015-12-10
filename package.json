@@ -8,6 +8,14 @@
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtskydJ/spell-check-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArtskydJ/spell-check-cli/issues"
+  },
+  "homepage": "https://github.com/ArtskydJ/spell-check-cli",
   "keywords": [
     "spell",
     "check",
