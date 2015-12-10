@@ -1,6 +1,6 @@
 {
   "name": "spell-check-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check a word's spelling from the command line",
   "bin": {
     "spell": "index.js"
