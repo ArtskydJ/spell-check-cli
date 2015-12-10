@@ -1,0 +1,25 @@
+{
+  "name": "spell-check-cli",
+  "version": "1.0.0",
+  "description": "Check a word's spelling from the command line",
+  "bin": {
+    "spell": "index.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "spell",
+    "check",
+    "spellcheck",
+    "command",
+    "line",
+    "CLI"
+  ],
+  "author": "Joseph Dykstra",
+  "license": "ISC",
+  "dependencies": {
+    "dictionary-en-us": "^1.0.1",
+    "hunspell-spellchecker": "^1.0.2"
+  }
+}
