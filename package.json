@@ -1,6 +1,6 @@
 {
   "name": "spell-check-cli",
-  "version": "1.0.0",
+  "version": "",
   "description": "Check a word's spelling from the command line",
   "bin": {
     "spell": "index.js"
@@ -17,7 +17,8 @@
     "CLI"
   ],
   "author": "Joseph Dykstra",
-  "license": "ISC",
+  "license": "MIT",
+  "preferGlobal": true,
   "dependencies": {
     "dictionary-en-us": "^1.0.1",
     "hunspell-spellchecker": "^1.0.2"
