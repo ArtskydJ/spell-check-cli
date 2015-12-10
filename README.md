@@ -1,7 +1,7 @@
-spellcheck-cli
-==============
+spell-check-cli
+===============
 
-[![Build Status](https://travis-ci.org/ArtskydJ/spellcheck-cli.svg?branch=master)](https://travis-ci.org/ArtskydJ/spellcheck-cli)
+[![Build Status](https://travis-ci.org/ArtskydJ/spell-check-cli.svg?branch=master)](https://travis-ci.org/ArtskydJ/spell-check-cli)
 
 > A command line app that tells you if you spelled a word correctly
 
