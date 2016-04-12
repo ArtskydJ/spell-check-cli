@@ -10,7 +10,7 @@ spell-check-cli
 Install with [npm](https://nodejs.org/en/download):
 
 ```
-npm install spellcheck-cli --global
+npm install spell-check-cli --global
 ```
 
 ### usage
