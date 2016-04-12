@@ -23,3 +23,7 @@ C:\>spell helol
 not ok
 
 ```
+
+### license
+
+[MIT](http://choosealicense.com/licenses/mit/)
