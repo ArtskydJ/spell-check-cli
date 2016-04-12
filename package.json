@@ -24,6 +24,9 @@
     "line",
     "CLI"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "Joseph Dykstra",
   "license": "MIT",
   "preferGlobal": true,
