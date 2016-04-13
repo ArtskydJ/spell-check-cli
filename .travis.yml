@@ -6,9 +6,7 @@ node_js:
   - "0.10"
   - "iojs"
 
-before_install:
-  - npm i -g spell-check-cli
-
 script:
   - "npm test"
+  - "npm link"
   - "spell hello"
