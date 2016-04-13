@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var enUS = require('dictionary-en-us')
 var Spellchecker = require('hunspell-spellchecker')
 
